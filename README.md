@@ -1,4 +1,4 @@
-\# Python File Organizer
+# Python File Organizer
 
 
 
@@ -6,31 +6,34 @@ A Python script that automatically organizes files in a folder based on file typ
 
 
 
-\## Features
+## Features
 
-\- Organizes files into folders like PDFs, Images, Videos, Others
+- Organizes files into folders like PDFs, Images, Videos, Others
 
-\- Simple automation using Python
-
-
-
-\## Technologies Used
-
-\- Python
-
-\- os module
-
-\- shutil module
+- Simple automation using Python
 
 
 
-\## How to Run
+## Technologies Used
 
-1\. Install Python
+- Python
 
-2\. Run: python file\_organizer.py
+- os module
 
-3\. Enter folder path when prompted
+- shutil module
+
+
+
+## How to Run
+
+1. Install Python
+
+2. Run: python file\_organizer.py
+
+3. Enter folder path when prompted
+
+ Successfully tested on Windows using Python 3.14
+ Organizes real system folders like Downloads
 
 
 
